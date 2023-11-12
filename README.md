@@ -1,6 +1,7 @@
 # drmimi
 
-A new Flutter project.
+It is an interactive AI powered selling machine for cashless peoples.
+It is Dr. Mimi! :)
 
 ## Getting Started
 
